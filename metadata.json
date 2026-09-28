@@ -1,0 +1,6 @@
+{
+  "name": "Toko Kue Inventory & Barcode Scanner",
+  "description": "Fast, mobile-first bakery inventory and barcode scanning system. Track warehouse and display stock movements with zero hassle.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
